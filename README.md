@@ -14,11 +14,14 @@
 ## Preview Mobile
 
 <img src="Imagens/Preview-Mobile.PNG">
+<img src="Imagens/Preview-Mobile(2).PNG">
 
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS 
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Implantação em produção
 - Front end web: GitHub.Io
