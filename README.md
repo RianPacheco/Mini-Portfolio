@@ -8,13 +8,12 @@
 
 ## Preview Desktop
 
-<img src="imagems/Preview-Desktop.PNG">
-<img src="imagems/Preview-Desktop(2).PNG">
+<img src="./src/assets/imagens/Preview-Desktop.PNG">
+<img src="./src/assets/imagens/Preview-Desktop(2).PNG">
 
 ## Preview Mobile
 
-<img src="Imagens/Preview-Mobile.PNG">
-<img src="Imagens/Preview-Mobile(2).PNG">
+<img src="./src/assets/imagens/Preview-Mobile.PNG"><img src="./src/assets/imagens/Preview-Mobile(2).PNG">
 
 # Tecnologias utilizadas
 
