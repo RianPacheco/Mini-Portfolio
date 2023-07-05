@@ -1,6 +1,6 @@
 # Mini-Portfolio-mapa-dev-week &copy; Rian Pacheco 🚀
 
-### link do projeto - https://rianpacheco.github.io/Mini-Portfolio-mapa-dev-week/
+### link do projeto - https://rianpacheco.github.io/Mini-Portfolio/
 
  Projeto feito 100% para didática e colocar em pratica as tecnologias em front-end.
 
